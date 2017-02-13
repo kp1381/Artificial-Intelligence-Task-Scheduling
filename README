@@ -1,0 +1,30 @@
+README
+
+AUTHOR: 
+
+Konstantin Petrov, for Artificial Intelligence Fall 2015
+
+COMPILATION AND RUNNING: 
+to compile the code: javac Run.java
+
+to run: java Run <NUMBER OR EXAMPLES> <MAX NUMBER OF TASKS> <MAX SIZE OF QUEUE>
+The code currently runs a method that was used for the Experimentation.
+You can change that by selecting the method that you want
+manualRun - takes input from console, outputs to console
+
+singleRun - takes command line arguments, runs <Number of examples> examples on
+a graph of size <Max number of tasks>. Outputs in results.txt
+
+fullRun - takes command line arguments, runs <Number of examples> examples on
+graphs of size from 10 to <Max number of tasks> in increments of 10. Outputs in results.txt
+
+RESULTS FROM EXPERIMENTS:
+
+I first ran 50 experiments on graphs of size 50,100,150...500. The results seemed to suggest
+that as the number of tasks increments, the percent of solutions increaces. The results can be
+seen in results1.txt
+
+Then I ran 1000 eperiments on graphs of size 10,20,30....200. Those results were very inconclusive
+and it seems that for all of them they have a success rate between 48% and 57%. I would say that
+there does not seem to be a correlation between the number of tasks and the number of solutions.
+The results can be seen in results2.txt

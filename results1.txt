@@ -1,0 +1,64 @@
+Total Number of Tasks: 50
+Number of Experiments: 50
+Answers | Experiments: 20 | 50
+Largest Number of States Generated: 230
+Smallest Number of States Generated: 30
+Average Number of States Generated: 75.5
+
+Total Number of Tasks: 100
+Number of Experiments: 50
+Answers | Experiments: 22 | 50
+Largest Number of States Generated: 296
+Smallest Number of States Generated: 69
+Average Number of States Generated: 147.14
+
+Total Number of Tasks: 150
+Number of Experiments: 50
+Answers | Experiments: 26 | 50
+Largest Number of States Generated: 416
+Smallest Number of States Generated: 143
+Average Number of States Generated: 250.84
+
+Total Number of Tasks: 200
+Number of Experiments: 50
+Answers | Experiments: 25 | 50
+Largest Number of States Generated: 493
+Smallest Number of States Generated: 218
+Average Number of States Generated: 315.46
+
+Total Number of Tasks: 250
+Number of Experiments: 50
+Answers | Experiments: 27 | 50
+Largest Number of States Generated: 630
+Smallest Number of States Generated: 286
+Average Number of States Generated: 400.08
+
+Total Number of Tasks: 300
+Number of Experiments: 50
+Answers | Experiments: 26 | 50
+Largest Number of States Generated: 845
+Smallest Number of States Generated: 342
+Average Number of States Generated: 486.46
+
+Total Number of Tasks: 350
+Number of Experiments: 50
+Answers | Experiments: 21 | 50
+Largest Number of States Generated: 857
+Smallest Number of States Generated: 407
+Average Number of States Generated: 586.88
+
+Total Number of Tasks: 400
+Number of Experiments: 50
+Answers | Experiments: 27 | 50
+Largest Number of States Generated: 897
+Smallest Number of States Generated: 485
+Average Number of States Generated: 644.98
+
+Total Number of Tasks: 450
+Number of Experiments: 50
+Answers | Experiments: 24 | 50
+Largest Number of States Generated: 1161
+Smallest Number of States Generated: 513
+Average Number of States Generated: 768.22
+
+
