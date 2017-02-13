@@ -1,9 +1,5 @@
 # Artificial-Intelligence-Task-Scheduling
-<TITLE>  Programming Assignment 1 </TITLE>
-<H2>  Programming Assignment 1 </H2>
-
-Assigned: Sep. 2. <br>
-Due: Sep. 23.
+<TITLE>  Assignment Description </TITLE>
 
 <H4> Assignment </H4>
 Write a program that solves the scheduling problem described in 
@@ -99,26 +95,3 @@ record
 search process.
 <LI> Any other statistics that interest you.
 </UL>
-
-<H4> Coding </H4>
-Programs will be accepted in C, C++, Java, Scheme, Perl, or Python.
-If you wish to write programs in other languages, you should discuss
-that with the grader; I leave that decision entirely up to his/her discretion. 
-Programs must run on the department Sun system; you should check this
-before you submit your code. 
-
-<H4>
-Submit </H4> 
-The source code; a README file explaining 
-how to compile and run your code; and a short summary of your experimental 
-results.
-<H4> Grading </H4>
-<p> Grading: 8 points for correctly running code.  2 points for well-written
-code. A programming assignment count equally with a problem set in computing
-the overall grade.
-
-<H4> 
-Late policy </H4>  Programming assignments are
-due at the beginning of class on the due date.  I will
-accept assignments late with a penalty of 1 point out of 10 for each week late
-(fractions of a week are rounded up.)
